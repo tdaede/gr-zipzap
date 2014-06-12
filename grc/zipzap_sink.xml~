@@ -1,0 +1,11 @@
+<block>
+  <name>Sink</name>
+  <key>zipzap_sink</key>
+  <category>ZIPZAP</category>
+  <import>import zipzap</import>
+  <make>zipzap.sink()</make>
+  <sink>
+    <name>in</name>
+    <type>float</type>
+  </sink>
+</block>
